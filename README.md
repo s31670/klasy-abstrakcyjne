@@ -1,1 +1,2 @@
-# klasy-abstrakcyjne
+Wojciech Duchiewicz
+s31670
